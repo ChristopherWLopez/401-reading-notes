@@ -20,3 +20,5 @@ I am really looking forward to digging into the big 0 notation and the mock inte
 ## What are your learning goals after reading and reviewing the class README? 
 
 I am looking forward to creating an express server. I know we did this in 301 but its something that everytime we did it or reviewed it, I would learn something new.
+
+## Things I want to know more about

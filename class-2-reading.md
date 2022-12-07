@@ -10,7 +10,7 @@ Web Franeme Work
 
 ## Express is “unopinionated.” What does that mean?
 
-This meand that there is many different ways to solve problems or to piece together components to solve said problem. The means that it is alittle more flexible to handle a speicific problem based on the situation.
+This means that there is many different ways to solve problems or to piece together components to solve said problem. The means that it is alittle more flexible to handle a speicific problem based on the situation.
 
 ## What is a module and why is modularity useful to us as developers?
 
@@ -60,4 +60,8 @@ maintains high quality of project
 
 Git hub allows us to make sure the people who needs to know about our tests and even give more info to those about, this lets everyone know if everything is okay to intigrate. This feels like a bouncer at a club, where git hub makes sure we get green light for certain people and even fill us in on why certain people arent allowed "in".
 
-## Bookmark
+## things i want to know more about
+
+I want to get a more hands on approach of the CI/CD practices and really see them play out in the process of developing with multiple people.
+
+I also wang to see and learn about some "opinionated" frame works... Maybe i want to just learn more about other ones, to see what its like out there and the likelihood of running into them in the work force.

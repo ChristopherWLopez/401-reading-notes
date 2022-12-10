@@ -15,3 +15,5 @@ A hub for all 401 reading and overall notes.
 * [class-1_readig](reading-class_1.md)
 
 * [class-2_reading](class-2-reading.md)
+
+* [class-3-reading](class-3-reading.md)

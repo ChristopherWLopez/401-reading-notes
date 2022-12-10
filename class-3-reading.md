@@ -107,3 +107,9 @@ In the example on :
     app.use('/', router); `
 
 why is the middleware happen on every request?
+
+### **reflection**
+
+## What are your learning goals after reading and reviewing the class README?
+
+Im really interested in modular routing to keep the code clean and single responsibility.. I really like this concept.

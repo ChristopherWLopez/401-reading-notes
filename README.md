@@ -19,3 +19,5 @@ A hub for all 401 reading and overall notes.
 * [class-3-reading](class-3-reading.md)
 
 * [class-4-reading](class-4-reading.md)
+
+* [class-6-reading](class-6-reading.md)

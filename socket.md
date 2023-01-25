@@ -51,3 +51,14 @@ the OSI model was made to ensure connection between different software. These ar
 TCP is A effient and accurate form of communication. This is the communication that starts from the client side (syn) and the server responds with (syn-ack) and then the client responds with (ack) back to the server with the connnection. This feels like a secret handshake or password that is started. This is also like me knocking on the door with that 4 knock rythmn then you respond with that 2 rythmn then you unlock the door and then I open the door.
 
 [info from](https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/#:~:text=Transmission%20Control%20Protocol%20(TCP)%20%E2%80%93,referred%20to%20as%20TCP%2FIP.)
+
+## notes
+
+TCP breaks down messages into small data points (when being sent)
+ these then get put back together when they get to their destination.
+
+ osi: a model that is like the medium in which all computers no matter make or model or systems, can communicate with one another.
+
+ -Physical : this is the actual signal (lan) this can be electrical. However it really depends on our "medium"
+
+ -Datalink layer: 

@@ -2,7 +2,7 @@
 
 ## What is Amazon API Gateway?
 
-Amazon Api gateway is a service that lets us developers define out own endpoints for either REST API or Websocket API's and connect those end points to our corresponding business logic.
+Amazon Api gateway is a service that lets us developers define our own endpoints for either REST API or Websocket API's and connect those end points to our corresponding business logic.
 
 These sit between our API servers and our API users, we are able to use fully managed authentication, and authorization as well as metrics for our API requests.
 
@@ -33,7 +33,7 @@ RESTful APIs and WEBSOCKET APIs.
 
 ## What is DynamoDB?
 
-DynamoDB is a hoest NoSQL database that is offered by AWS. It offers reliable, scalible performance, managed experience in a small simple API allowing for simple key-value access (and more advances query patterns).
+DynamoDB is a  NoSQL database that is offered by AWS. It offers reliable, scalible performance, managed experience in a small simple API allowing for simple key-value access (and more advances query patterns).
 
 ## Under what circumstances would you recommend DynamoDB over MongoDB?
 

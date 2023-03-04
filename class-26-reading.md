@@ -44,7 +44,7 @@ You would use `.jsx` extention on React components, you would use PascalCase for
 
 ## Looking ahead at this module’s course schedule, What do you look forward to learning?
 
-Im interested in learned more about Graphs, especially since we used them in our midterm. Im interested in learning more about them. 
+Im interested in learned more about Graphs, especially since we used them in our midterm. Im interested in learning more about them.
 
 ## What are your learning goals after reading and reviewing the class README?
 
@@ -52,4 +52,4 @@ Im interested in learned more about React, and really getting into it alittle mo
 
 ## Things I want to know more about
 
-I want to learn more about functional components and how they are better than class components. 
+I want to learn more about functional components and how they are better than class components.

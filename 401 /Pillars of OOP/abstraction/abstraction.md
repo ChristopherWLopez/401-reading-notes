@@ -16,8 +16,9 @@ We have Key aspects of *abstraction*
 ```js
     class BankAccount{
         constructor(accountNumber, balance){
-            this.accountNumber = accountNu ber;
-            //underscore to show indicater "protected" data
+            this.accountNumber = accountNumber;
+            //underscore to show indicater "protected" data its a convention.
+
             this._balance = balance;
         }
         // Get method to access balance
@@ -43,5 +44,16 @@ We have Key aspects of *abstraction*
             }
         }
     }
+
+    const account - new BankAccount("12345", 1000);
+
+    //direct access to balance is restricted
+    //access is constrolled through the getter method
+    console.log(account.balance);//1000
+
+    //Modiying the balance is not allowed
+
+    account.deposit(500);// deposited $500
+    account.withdraw(200);//withdrawn $200
 
 ```

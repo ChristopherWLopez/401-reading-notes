@@ -57,3 +57,8 @@ We have Key aspects of *abstraction*
     account.withdraw(200);//withdrawn $200
 
 ```
+
+## Simplification
+
+- This is the concept that allows us to break down big complex systems into smaller understandable components. This allows us to work with higher-level concepts, making the design and maintenance of software more manageable.
+

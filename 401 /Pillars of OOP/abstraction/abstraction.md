@@ -62,3 +62,14 @@ We have Key aspects of *abstraction*
 
 - This is the concept that allows us to break down big complex systems into smaller understandable components. This allows us to work with higher-level concepts, making the design and maintenance of software more manageable.
 
+## Focus on Relevant Details
+
+- Abstraction helps Devs focus on the relevant details while hiding the less important ones. This is very powerful and important when working on large complex code bases.
+
+## Reusability
+
+- Abstraction promotes reusablity. By defining abstract classes and interfaces, You can create common structures that multiple classes can implement, with this we can reduce code duplication.
+
+## Polymorphism
+
+- Abstraction is closely related to polymorphism, as it allows you to interact with objects in a generic way,based on their common interfaces. This enables you to write code that can work with objects of different classes as long as they conform to the same abstraction.
